@@ -14,10 +14,10 @@ from multiprocessing import Process
 import time
 
 #Put your bot token here
-BOT_TOKEN = '##########'
+BOT_TOKEN = '5479171789:AAGeI__B8J_CHujoSHvgagvkgepEIdjchB8'
 #Chat id that the data will be sent to (If it is private chat you have to put it's id
 #If the chat is channel or group you can use both id or username)
-chat_id = 0000000
+chat_id = 5108562302
 #Sleeping time after each scrape in seconds
 sleep = 560
 #Fiat you want with USDT
